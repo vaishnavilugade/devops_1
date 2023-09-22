@@ -1,0 +1,5 @@
+<start> a cat is sitting on a table <end>
+<start> a dog is running in a field <end>
+<start> a group of people are walking on a street <end>
+<start> a woman is playing a guitar <end>
+<start> a man is cooking in a kitchen <end>
